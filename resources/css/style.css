@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+body {
+  font-family: sans-serif;
+}
+
+.hero {
+  background-image: url('../images/building.png');
+  height: 297px;
+  width: 1500px;
+  text-align: center;
+  color: white;
+}
+
+.hero h2 {
+  font-size: 20px;
+}
+
+h1{
+  font-family: sans-serif;
+  color: white;
+  font-size: 90px;
+}
+
+.nav {
+  font-family: "Lora", sans-serif;
+  font-size: 14px;
+  line-height: 1.25;
+  background-color: #fff;
+  width: 100%;
+  font-weight: 900;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  text-decoration: none;
+  display: block;
+  color: #4A4A4A;
+  padding: 30px 20px;
+}
+
+.ourprocess {
+  text-align: center;
+}
+.ourprocess h3 {
+  color: #F45D01;
+}
+.item {
+  display: inline-block;
+  padding: 20px;
+}
+
+.item p {
+  font-size: 14px;
+}
+
+.item #contact {
+  text-align: right;
+}
